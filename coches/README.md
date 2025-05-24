@@ -16,6 +16,3 @@ Tecnologías
 
 Cómo verlo online
 Compatible con InfinityFree. Solo debes importar el archivo `coches.sql` y ajustar `db.php` con tus datos del servidor.
-
-Autor
-Proyecto creado por AdriProGamer2011 para el módulo de despliegue web.
